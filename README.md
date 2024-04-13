@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am a junior software developer, passionate about exploring the vast realms of coding, AI, and building intuitive, robust products.
-
+I am a junior software developer, passionate about exploring the vast realms of coding, AI, and building intuitive, robust products. Just trying to consantly better myself and leave my mark wherever I go.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shea-holden)
