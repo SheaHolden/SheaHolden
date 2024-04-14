@@ -1,8 +1,8 @@
 ### Hello there ![](https://github.com/SheaHolden/SheaHolden/blob/main/hello_there.webp =100x100) I'm Shea Holden
 <img src="https://github.com/SheaHolden/SheaHolden/blob/main/hello_there.webp" 
   data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/SheaHolden/SheaHolden/blob/main/hello_there.webp)" 
-  width="200" 
-  height="400" />
+  width="100" 
+  height="100" />
   
 <!--
 **SheaHolden/SheaHolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
