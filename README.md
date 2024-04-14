@@ -1,4 +1,4 @@
-### Hi 👋 I'm Shea Holden
+### Hello there ![](https://github.com/SheaHolden/SheaHolden/blob/main/hello_there.gif) I'm Shea Holden
 
 <!--
 **SheaHolden/SheaHolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
