@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 I am a junior software developer, passionate about exploring the vast realms of coding, AI, and building intuitive, robust products. Just trying to consantly better myself and leave my mark wherever I go.
 
+When I'm not working you can find me out ripping twisty back roads on the motorcycle 🏍, shredding powder on the snowboard 🏂, chasing sunsets 🌅, or bettering my photography skills 📸
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shea-holden)
 
