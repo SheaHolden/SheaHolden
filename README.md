@@ -1,5 +1,5 @@
-### Hello there <img src="https://github.com/SheaHolden/SheaHolden/blob/main/hello_there.webp" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/SheaHolden/SheaHolden/blob/main/hello_there.webp)" width="100" height="100" /> I'm Shea Holden
-  
+### Hello there 👋 I'm Shea Holden
+<img src="https://github.com/SheaHolden/SheaHolden/blob/main/hello_there_wide.webp" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/SheaHolden/SheaHolden/blob/main/hello_there_wide.webp)" width="300" />
 <!--
 **SheaHolden/SheaHolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
