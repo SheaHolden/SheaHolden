@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🙋🏻‍♂️ About Me:
-I am a full stack software developer, QA manager, and DevOps engineer with a passion for exploring the vast realms of technology, AI, and building intuitive, robust products. Just trying to consantly better myself and leave my mark wherever I go.
+I am a full stack software developer, QA manager, and DevOps engineer with a passion for exploring the vast realms of technology, AI, and building intuitive, robust products. Always striving to better myself and leave my mark wherever I go.
 
 When I'm not working you can find me out tearing up widing back roads on the motorcycle 🏍, shredding powder on the snowboard 🏂, chasing sunsets 🌅, or photographing the outdoors & landscapes 📸
 
