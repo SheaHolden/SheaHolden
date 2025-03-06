@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🙋🏻‍♂️ About Me:
-I am a full stack software developer DevOps engineer, and graphic designer, with an appreciation for intuitive and useful products, I aim to contribute to meaningful software development and leverage my technical, communication, and problem-solving skills to drive success. I hope to leave my mark in the digital world, and apply, hone and challenge my abilities in a dynamic and collaborative environment.
+I am a full stack software developer, DevOps engineer, and graphic designer, with an appreciation for intuitive and useful products, I aim to contribute to meaningful software development and leverage my technical, communication, and problem-solving skills to drive success. I hope to leave my mark in the digital world, and apply, hone and challenge my abilities in a dynamic and collaborative environment.
 
 When I'm not working you can find me out tearing up widing back roads on the motorcycle 🏍, shredding powder on the snowboard 🏂, chasing sunsets 🌅, or photographing the outdoors & landscapes 📸
 
