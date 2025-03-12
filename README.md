@@ -25,6 +25,8 @@ When I'm not working you can find me out tearing up widing back roads on the mot
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shea-holden)
+[![Email](https://img.shields.io/badge/Email-PLACEHOLDER?logo=gmail&logoColor=white)](mailto:sheakholden@gmail.com)
+
 
 # 💻 Tech Stack:
 ### Languages:
