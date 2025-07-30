@@ -58,6 +58,7 @@ When I'm not working you can find me out tearing up widing back roads on the mot
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/wordpress-%2300599C.svg?style=for-the-badge&logo=wordpress&logoColor=white) 
+![Vue JS](https://img.shields.io/badge/vue.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ### Design:
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
