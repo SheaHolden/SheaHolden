@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🙋🏻‍♂️ About Me:
-I am a passionate software developer with a strong computer science foundation and expertise in building innovative, user-friendly applications. Proficient in a range of languages and frameworks, including Python, JavaScript, React, and Django. Quick to learn new technologies and apply technical skills to add value to products. Committed to continuous learning and staying current with industry trends and best practices. Eager to leverage my technical & problem-solving abilities to contribute to the success of a dynamic, forward-thinking organization.
+A jack of all trades, master of some. I enjoy working in collaborative and creative environments and on challenging and meaningful problems. I am a passionate software developer with a strong computer science foundation and expertise in building innovative, user-friendly applications. Proficient in a range of languages and frameworks, including Python, JavaScript, React, Vue, and Django. Quick to learn new technologies and apply technical skills to improve anything I get my hands on. Committed to continuous learning and staying current with industry trends and best practices. Always eager to leverage my technical & problem-solving abilities to contribute to the success of a dynamic, forward-thinking, meaningful projects.
 
 When I'm not working you can find me out tearing up widing back roads on the motorcycle 🏍, shredding powder on the snowboard 🏂, chasing sunsets 🌅, or photographing the outdoors & landscapes 📸
 
-## 🌐 Socials:
+## 🌐 Get In Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shea-holden)
 [![Email](https://img.shields.io/badge/Email-PLACEHOLDER?logo=gmail&logoColor=white)](mailto:sheakholden@gmail.com)
 
