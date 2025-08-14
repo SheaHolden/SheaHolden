@@ -28,11 +28,11 @@ When I'm not working you can find me out tearing up widing back roads on the mot
 [![Email](https://img.shields.io/badge/Email-PLACEHOLDER?logo=gmail&logoColor=white)](mailto:sheakholden@gmail.com)
 
 # 📁 Portfolio:
-[![poker.buzztime.com](https://img.shields.io/badge/poker.buzztime.com-A228E8.svg)](https://poker.buzztime.com)
+[![online multiplayer poker game](https://img.shields.io/badge/poker.buzztime.com-A228E8.svg)](https://poker.buzztime.com)
 
-[![tv.buzztime.com](https://img.shields.io/badge/tv.buzztime.com-0AB9DE.svg)](https://tv.buzztime.com) Note: not fully functional without provided hardware. Get in touch to see a functional demo!
+[![Console style entertainment launcher](https://img.shields.io/badge/tv.buzztime.com-0AB9DE.svg)](https://tv.buzztime.com) Note: not fully functional without provided hardware. Get in touch to see a functional demo!
 
-[![live.buzztime.com](https://img.shields.io/badge/live.buzztime.com-2FB383.svg)](https://live.buzztime.com)
+[![live trivia game](https://img.shields.io/badge/live.buzztime.com-2FB383.svg)](https://live.buzztime.com)
 
 Just some examples. This is ever-expanding and I have lots of unfinished, unpublished projects on the go! 
 
